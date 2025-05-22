@@ -1,0 +1,1 @@
+print('O resultado da soma de 5 + 1 é: ', 1 + 5)
