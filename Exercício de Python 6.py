@@ -1,0 +1,8 @@
+idade = input('Qual é a sua idade? ')
+print(idade)
+print(' ')
+nome = input('Qual é o seu nome? ')
+print(f'Olá, {nome}! Seja bem-vindo!')
+print(' ')
+nota = float(input('Qual foi sua nota? '))
+print(f'Sua nota foi de: {nota}.')
