@@ -6,3 +6,4 @@ print(f'Olá, {nome}! Seja bem-vindo!')
 print(' ')
 nota = float(input('Qual foi sua nota? '))
 print(f'Sua nota foi de: {nota}.')
+
